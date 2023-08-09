@@ -1,11 +1,13 @@
 @charset "UTF-8";
 
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans&family=Roboto&display=swap');
+
 * { margin: 0; padding: 0; }
 
 html, body { min-height: 100%; overflow-x: hidden;}
 
 body {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Public Sans', sans-serif;
     color: #222333;
     background: linear-gradient(#eceff1, #cfd8dc);
 }
